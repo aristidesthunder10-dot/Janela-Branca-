@@ -1,0 +1,10 @@
+{
+  "name": "Janela Branca",
+  "description": "Manage expenses and income with intuitive charts, cloud backup, and quick barcode or QR code scanning.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
